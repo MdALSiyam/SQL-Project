@@ -1,7 +1,7 @@
-## Projet Outline
+# Projet Outline
 
-# DDL
+## DDL
 ![DDL](DDL.png)
 
-# DML
+## DML
 ![DML](DML.png)
